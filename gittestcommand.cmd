@@ -1,4 +1,4 @@
-cd C:\Users\Darkk\open_science_workshop
+cd C:\ProgramData\GitHub\open_science_workshop
 dir
 git add . 
 git status
