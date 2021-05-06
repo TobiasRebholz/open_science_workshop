@@ -4,8 +4,6 @@
 	::Change <path> as needed. Eg. C:\Users\rich\Desktop\Writings
 	cd C:\ProgramData\GitHub\open_science_workshop
 	
-	git.exe
-	
 	::Pull any external changes (maybe you deleted a file from your repo?)
 	git pull
 	
@@ -24,7 +22,7 @@
 	
 	::Wait 300 seconds until going to the start of the loop.
 	::Change as needed.
-	TIMEOUT 300
+	TIMEOUT 5
 	
 ::Restart from the top.	
 goto loop
